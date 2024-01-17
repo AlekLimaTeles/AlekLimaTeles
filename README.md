@@ -7,6 +7,17 @@
 - [✔] Entusiasta de fisiculturismo 🏋️‍♀️
 - [✔] Acadêmico de Ciências da Computação/terceiro semestre 👨‍💻
 
+- Profissional experiente em mobilizar diversas funções com conhecimento e ânimo, com 2 anos de experiência em api´s utilizando Node.js, ofereço desempenho e disciplina referente à organização e documentação adequada de projetos.
+
+Exemplos : 
+
+-> https://github.com/AlekLimaTeles/02-API-REST-NODEJSREP
+-> https://github.com/AlekLimaTeles/Desafio-Node02
+
+Possuo grande interesse em oportunidades que me tirem de minha zona de conforto e que agregem ao meu conhecimento como profissional
+
+Caso queira trocar um papo so mandar oi, segue meu email : contatoalekteles@gmail.com
+
 
 # Experiência/Projetos
 - ❄  Projeto Fridge  - http://fridge-html-xi.vercel.app/
@@ -19,4 +30,4 @@
 
 - Cursando especialização em back-end utilizando Nodejs, ministrada pela renomada Rocketseat, projetos e desafios da especialização em meu perfil!
 
-- Segue currículo -> https://drive.google.com/file/d/1yr69-HXLfhom-AZmWY9vjRhmeRgEvJhY/view?usp=drive_link
+- Segue currículo -> [https://drive.google.com/file/d/1yr69-HXLfhom-AZmWY9vjRhmeRgEvJhY/view?usp=drive_link](https://drive.google.com/file/d/1QCROV9X9ShA8-xMFsTBfLkzQ3W5Uyjd2/view?usp=drive_link)https://drive.google.com/file/d/1QCROV9X9ShA8-xMFsTBfLkzQ3W5Uyjd2/view?usp=drive_link
